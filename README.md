@@ -2,30 +2,20 @@
 
 Student robotics and engineering team from **PGMEE Burgas, Bulgaria**.
 
-We work on robotics, electronics, programming, automation, and electric vehicles.
+We work on robotics, electronics, programming, automation.
 
 ---
 
 ## About Us
 
-We are a student engineering team focused on building and competing with robots, electronics projects, and electric vehicles.
+We are a student engineering team focused on building and competing with robots, electronics projects.
 
 ### Achievements
 
-* **FIRST LEGO League Bulgaria Champions 2026**
-* Qualified for the **FIRST LEGO League International Final in Greece**
-* **3rd Place, FIRST LEGO League Bulgaria 2024**
-* Multiple **Shell Eco-marathon** participations
-* Built the **Batkomobil** electric prototype
-* Multiple podium finishes in Bulgarian robotics and electronics competitions
-
----
-
-## Featured Project
-
-### Underwater Archaeology
-
-For FIRST LEGO League 2026, we developed an automated system for **desalinating underwater archaeological artifacts** using sensors for temperature, electrical conductivity, and water level.
+- **FIRST LEGO League Bulgaria Champions 2026**
+- Qualified for the **FIRST LEGO League International Final in Greece**
+- **3rd Place, FIRST LEGO League Bulgaria 2024**
+- Multiple podium finishes in Bulgarian robotics and electronics competitions
 
 ---
 
@@ -34,8 +24,19 @@ For FIRST LEGO League 2026, we developed an automated system for **desalinating 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="./assets/c.png" width="45" height="45" alt="C"/>
+  <img src="./c-program-icon.webp" width="45" height="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+---
+
+## Tools
+
+<p>
+  <img src="./Pybricks+Logo.webp" width="45" height="45" alt="Pybricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="./platformio.webp" width="45" height="45" alt="PlatformIO"/>
+  <img src="./claude-color.png" width="45" height="45" alt="Claude"/>
 </p>
 
 ---
