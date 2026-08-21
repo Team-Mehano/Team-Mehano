@@ -1,9 +1,5 @@
 # Team Mehano
 
-Student robotics and engineering team from **PGMEE Burgas, Bulgaria**.
-
-We work on robotics, electronics, programming, automation.
-
 ---
 
 ## About Us
@@ -41,8 +37,3 @@ We are a student engineering team focused on building and competing with robots,
 
 ---
 
-## Contact
-
-**Location:** Burgas, Bulgaria
-
-**School:** PGMEE Burgas
