@@ -41,8 +41,4 @@ We are a student engineering team focused on building and competing with robots,
 
 ---
 
-## Contact
 
-**Location:** Burgas, Bulgaria
-
-**School:** PGMEE Burgas
