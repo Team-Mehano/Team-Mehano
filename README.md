@@ -1,5 +1,9 @@
 # Team Mehano
 
+Student robotics and engineering team from **PGMEE Burgas, Bulgaria**.
+
+We work on robotics, electronics, programming, automation.
+
 ---
 
 ## About Us
@@ -18,10 +22,18 @@ We are a student engineering team focused on building and competing with robots,
 ## Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="./c-program-icon.webp" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="./c-program-icon.webp" width="45" height="45" alt="C"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
 </p>
 
 ---
@@ -29,11 +41,24 @@ We are a student engineering team focused on building and competing with robots,
 ## Tools
 
 <p>
-  <img src="./Pybricks+Logo.webp" width="45" height="45" alt="Pybricks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="./platformio.webp" width="45" height="45" alt="PlatformIO"/>
-  <img src="./claude-color.png" width="45" height="45" alt="Claude"/>
+  <a href="https://pybricks.com/" target="_blank">
+    <img src="./Pybricks+Logo.webp" width="45" height="45" alt="Pybricks"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  </a>
+  <a href="https://platformio.org/" target="_blank">
+    <img src="./platformio.webp" width="45" height="45" alt="PlatformIO"/>
+  </a>
+  <a href="https://www.anthropic.com/claude" target="_blank">
+    <img src="./claude-color.png" width="45" height="45" alt="Claude"/>
+  </a>
 </p>
 
 ---
 
+## Contact
+
+**Location:** Burgas, Bulgaria
+
+**School:** PGMEE Burgas
